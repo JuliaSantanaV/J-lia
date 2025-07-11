@@ -1,7 +1,6 @@
-# Júlia
-- 📍 Moro em Muriaé - MG   
-- 🎯 Em busca da minha primeira oportunidade na área de TI  
-- 📚 Aprendendo **VsCode**, **JavaScript**
+# Olá, eu sou a Júlia
+- Cursando Técnico em Informática no SENAI Muriaé.  
+- Aprendendo **VsCode**, **JavaScript**.
 
 - ## 🌐 Socials
 
